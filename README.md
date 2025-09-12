@@ -21,11 +21,26 @@
 
 <div align="center">
   
-  ### Hi there, I'm ANANTHU 👨‍💻
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ANANTHU&fontSize=50&color=0:FF1493,50:8A2BE2,100:00D9FF&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descSize=20&descAlignY=75"/>
+
+</div>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=009688&center=true&width=435&lines=3rd+Year+CSE+Student;Software+Engineer+Intern;Full-Stack+Developer" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=1E90FF,FF1493&center=true&vCenter=true&width=700&height=80&lines=INITIALIZING...;%3E+SOFTWARE_ENGINEER_INTERN;%3E+CSE_STUDENT;%3E+FULLSTACK_DEVELOPER;%3E+READY_TO_CODE" alt="Typing SVG" />
+</div>
+
+  <div align="center">
+
+### 🚀 Full-Stack Developer & Software Engineer Intern 
+**@ [Praskla Technology](https://praskla.com)**
+
+💡 **Building end-to-end applications** with the **MERN stack** and **AI API integration**  
+🏗️ Currently shipping innovative solutions at **ETHGlobal New Delhi**  
+⚡ Transforming ideas into scalable digital experiences
+
+</div>
   
-  <p><em>I'm a passionate Computer Science Engineering student in my 3rd year, currently working as a Software Engineer Intern at Praskla Technology. 🚀 I'm a fervent learner exploring the intersection of full-stack development and process automation.</em></p>
 </div>
 
 ---
