@@ -23,7 +23,6 @@
   
   <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=ANANTHU&fontSize=50&color=0:FF1493,50:8A2BE2,100:00D9FF&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descSize=20&descAlignY=75"/>
-
 </div>
   
 <div align="center">
@@ -33,7 +32,7 @@
   <div align="center">
 
 ### 🚀 Full-Stack Developer & Software Engineer Intern 
-**@ [Praskla Technology](https://praskla.com)**
+**@ [Praskla Technology](https://www.prasklatechnology.com)**
 
 💡 **Building end-to-end applications** with the **MERN stack** and **AI API integration**  
 🏗️ Currently shipping innovative solutions at **ETHGlobal New Delhi**  
