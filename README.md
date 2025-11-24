@@ -40,7 +40,7 @@ CSE student with a passion for transforming ideas into impactful digital solutio
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnanthuNarashimman&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanthuNarashimman&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnanthuNarashimman&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
