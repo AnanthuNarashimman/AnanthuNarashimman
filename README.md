@@ -1,19 +1,20 @@
-<img width="100%" height="246" alt="image" style = "border-radius: 50px" src="https://github.com/user-attachments/assets/c93af9d1-0b51-4fd0-a195-20213311d061" />
+<img width="100%" height="246" alt="image" style="border-radius: 50px" src="https://github.com/user-attachments/assets/c93af9d1-0b51-4fd0-a195-20213311d061" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnanthuNarashimman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 # Ananthu Narashimman
-
 **Full-Stack Developer** | Software Engineer Intern @ [Praskla Technology](https://www.prasklatechnology.com)
 
-CSE student with a passion for transforming ideas into impactful digital solutions. I specialize in building end-to-end web applications using the MERN stack and integrating AI-powered features to enhance user experiences. Currently focused on shipping products that solve real user problems while expanding my expertise in Machine Learning and data science. I thrive on learning cutting-edge technologies and applying them to create scalable, production-ready applications. Certified in UiPath RPA Development (Foundation & Advanced), I combine development skills with automation expertise to build efficient, intelligent systems.
+CSE student with a passion for transforming ideas into impactful digital solutions. I specialize in building end-to-end web applications using the MERN stack and integrating AI-powered features to enhance user experiences. Currently focused on shipping products that solve real user problems while expanding my expertise in Machine Learning and data science. Certified in UiPath RPA Development (Foundation & Advanced).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthunarashimman/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AnanthuN7652)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ananthu.narashimman@gmail.com)
 
 ---
-
 ## Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
@@ -35,28 +36,21 @@ CSE student with a passion for transforming ideas into impactful digital solutio
 </p>
 
 ---
-
 ## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanthuNarashimman&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.herokuapp.com/api?username=AnanthuNarashimman&show_icons=true&theme=default&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnanthuNarashimman&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthuNarashimman&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthuNarashimman&theme=github-compact&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
-
 ## Let's Connect
-
-Open to collaborating on full-stack projects, open-source contributions, and automation solutions. Feel free to reach out!
-
-📧 ananthu.narashimman@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ananthunarashimman/)  
-🐦 [X (Twitter)](https://x.com/AnanthuN7652)
+Open to collaborating on full-stack projects, open-source contributions, and automation solutions. Feel free to reach out!  
+ananthu.narashimman@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/ananthunarashimman/)  
+[X (Twitter)](https://x.com/AnanthuN7652)
