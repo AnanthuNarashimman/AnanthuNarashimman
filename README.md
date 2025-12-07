@@ -7,6 +7,12 @@
 # Ananthu Narashimman
 **Full-Stack Developer** | Software Engineer Intern @ [Praskla Technology](https://www.prasklatechnology.com)
 
+<div align="center">
+  <a href="https://web-slinger.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="50"/>
+  </a>
+</div>
+
 CSE student with a passion for transforming ideas into impactful digital solutions. I specialize in building end-to-end web applications using the MERN stack and integrating AI-powered features to enhance user experiences. Currently focused on shipping products that solve real user problems while expanding my expertise in Machine Learning and data science. Certified in UiPath RPA Development (Foundation & Advanced).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthunarashimman/)
@@ -51,4 +57,4 @@ CSE student with a passion for transforming ideas into impactful digital solutio
 Open to collaborating on full-stack projects, open-source contributions, and automation solutions. Feel free to reach out!  
 ananthu.narashimman@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/ananthunarashimman/)  
-[X (Twitter)](https://x.com/AnanthuN7652)
+[X (Twitter)](https://x.com/AnanthuN7652) 
