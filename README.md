@@ -5,7 +5,7 @@
 </div>
 
 # Ananthu Narashimman
-**Full-Stack Developer** |
+**Full Stack Developer | AI & Data Science | Web Development + Applied ML (Pandas/Scikit-Learn)**
 
 <div align="center">
   <a href="https://web-slinger.vercel.app" target="_blank">
