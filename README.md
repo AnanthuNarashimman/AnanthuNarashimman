@@ -5,7 +5,7 @@
 </div>
 
 # Ananthu Narashimman
-**Full-Stack Developer** | Software Engineer Intern @ [Praskla Technology](https://www.prasklatechnology.com)
+**Full-Stack Developer** |
 
 <div align="center">
   <a href="https://web-slinger.vercel.app" target="_blank">
