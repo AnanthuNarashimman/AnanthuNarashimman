@@ -13,7 +13,7 @@
 
 `founding team @ stealth` · `products` · `dev tools` · `hackathons`  
 
-[![Portfolio](https://img.shields.io/badge/portfolio-web--slinger-FF5722?style=flat-square&labelColor=0D1117)](https://web-slinger.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-ananthu-FF5722?style=flat-square&labelColor=0D1117)](https://ananthu.xyz)
 [![X](https://img.shields.io/badge/x-@AnanthuN7652-0D1117?style=flat-square&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/AnanthuN7652)
 [![LinkedIn](https://img.shields.io/badge/linkedin-ananthunarashimman-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ananthunarashimman/)
 [![Mail](https://img.shields.io/badge/mail-say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ananthu.narashimman@gmail.com)
