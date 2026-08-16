@@ -32,7 +32,7 @@ Currently on the founding team at a stealth startup, building something I can't 
 
 ## things i've built
 
-**[agent-smith](https://github.com/AnanthuNarashimman/agent-smith)** · `84 downloads`
+**[agent-smith](https://github.com/AnanthuNarashimman/agent-smith)** `npm package` · `84 downloads`
 
 A runtime watchdog for coding agents. Catches goal drift mid-run, before your agent quietly refactors a file you never asked it to touch.
 
@@ -40,7 +40,7 @@ A runtime watchdog for coding agents. Catches goal drift mid-run, before your ag
 
 <br>
 
-**[tracetel](https://github.com/AnanthuNarashimman/tracetel)** · `~1k downloads`
+**[tracetel](https://github.com/AnanthuNarashimman/tracetel)** `npm package` · `~1k downloads`
 
 Turns Composio tool calls into OpenTelemetry spans. Because "it did something, probably" is not an acceptable production log.
 
