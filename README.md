@@ -32,7 +32,7 @@ Currently on the founding team at a stealth startup, building something I can't 
 
 ## things i've built
 
-**[agent-smith](https://github.com/AnanthuNarashimman/agent-smith)** · `@flash_dev/agent-smith` · `84 downloads`
+**[agent-smith](https://github.com/AnanthuNarashimman/agent-smith)** · `84 downloads`
 
 A runtime watchdog for coding agents. Catches goal drift mid-run, before your agent quietly refactors a file you never asked it to touch.
 
