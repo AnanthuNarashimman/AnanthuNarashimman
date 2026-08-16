@@ -1,71 +1,88 @@
-<img width="100%" height="246" alt="image" style="border-radius: 50px" src="https://github.com/user-attachments/assets/c93af9d1-0b51-4fd0-a195-20213311d061" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnanthuNarashimman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
 <div align="center">
 
-# Ananthu Narashimman
-**Shipping AI agents, dev tools & full-stack products | Always at a hackathon | Currently dissecting LLM architecture**
+```
+ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗██╗   ██╗
+██╔══██╗████╗  ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██║   ██║
+███████║██╔██╗ ██║███████║██╔██╗ ██║   ██║   ███████║██║   ██║
+██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║   ██║   ██╔══██║██║   ██║
+██║  ██║██║ ╚████║██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝
+```
 
-</div>
+**i build things, break them, then ship the fix.**
 
-<div align="center">
-  <a href="https://web-slinger.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" height="50"/>
-  </a>
-</div>
+`founding team @ stealth` · `products` · `dev tools` · `hackathons`  
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthunarashimman/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/AnanthuN7652)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ananthu.narashimman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-web--slinger-FF5722?style=flat-square&labelColor=0D1117)](https://web-slinger.vercel.app)
+[![X](https://img.shields.io/badge/x-@AnanthuN7652-0D1117?style=flat-square&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/AnanthuN7652)
+[![LinkedIn](https://img.shields.io/badge/linkedin-ananthunarashimman-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ananthunarashimman/)
+[![Mail](https://img.shields.io/badge/mail-say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ananthu.narashimman@gmail.com)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Browser--use-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
-</p>
+Idea to shipped thing, as fast as the idea deserves. I care about the unglamorous half: the parts that make something survive contact with real users instead of dying in the demo.
+
+Most of what's here started as a weekend itch and refused to stay one.
+
+Currently on the founding team at a stealth startup, building something I can't talk about yet. You'll hear about it.
 
 ---
 
+## things i've built
+
+**[agent-smith](https://github.com/AnanthuNarashimman/agent-smith)** · `@flash_dev/agent-smith` · `84 downloads`
+
+A runtime watchdog for coding agents. Catches goal drift mid-run, before your agent quietly refactors a file you never asked it to touch.
+
+`typescript` `node` `claude code hooks` `supermemory`
+
+<br>
+
+**[tracetel](https://github.com/AnanthuNarashimman/tracetel)** · `~1k downloads`
+
+Turns Composio tool calls into OpenTelemetry spans. Because "it did something, probably" is not an acceptable production log.
+
+`typescript` `opentelemetry` `composio`
+
+<br>
+
+**[Syntax](https://github.com/AnanthuNarashimman/Syntax)** · `100+ students`
+
+A coding assessment platform. Built it, real students used it under real deadlines, servers survived.
+
+`react` `node` `firebase` `judge0`
+
+<br>
+
+**[VibeAudit](https://github.com/AnanthuNarashimman/VibeAudit)**
+
+An autonomous browser agent that clicks around your UI and tells you where it sucks. Brutally honest, never gets tired.
+
+`python` `browser-use` `playwright` `gemini`
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnanthuNarashimman&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthuNarashimman&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnanthuNarashimman&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthuNarashimman&theme=github-compact&hide_border=true&area=true" width="100%" />
+
 </div>
 
 ---
 
-## Let's Connect
+## say hi
 
-Open to internships, collaborations, and anything interesting.
+Open to internships, collabs, and any idea weird enough to be interesting.
 
-ananthu.narashimman@gmail.com · [LinkedIn](https://www.linkedin.com/in/ananthunarashimman/) · [X](https://x.com/AnanthuN7652)
+Find me on [X](https://x.com/AnanthuN7652) and [LinkedIn](https://www.linkedin.com/in/ananthunarashimman/), or [email me](mailto:ananthu.narashimman@gmail.com) if it needs more than a DM.
+
+<div align="center">
+<br>
+<sub><i>ship it, then make it good. in that order.</i></sub>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=AnanthuNarashimman&label=you+are+visitor&color=0D1117&style=flat-square" />
+</div>
